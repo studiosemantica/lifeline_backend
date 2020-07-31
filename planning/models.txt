@@ -1,0 +1,22 @@
+MODELS
+
+
+---- MAIN MODEL
+
+
+ request 
+   |
+   request: type : string: 
+   |               "emergency", 
+   |               "suspected overdose", 
+   |               "seeking help", 
+   |               "mental health crisis"
+   |
+   contact: type: mixed
+   |
+   location: type: mixed
+   |
+   description: type: string
+
+
+
