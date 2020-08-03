@@ -1,0 +1,5 @@
+
+# //you can delete this one
+# /starter-code/node_modules
+/node_modules
+.env
