@@ -16,10 +16,10 @@ This schedule will be used to keep track of progress throughout the week and ali
 
 |  Day | Deliverable | Status
 |---|---| ---|
-|Day 1| Project Description | Incomplete
-|Day 1| Wireframes / Priority Matrix / backend and frontend | Incomplete
-|Day 2| Link to Custom Domain / Early test of deployment and Collection of Typeface Google Fonts and Website Assets + Data Modeling | Incomplete
-|Day 3| Working RestAPI | Incomplete
+|Day 1| Project Description | Complete
+|Day 1| Wireframes / Priority Matrix / backend and frontend | Complete
+|Day 2| Data Modeling, Tested Routes, Heroku backend Deployment | Complete
+|Day 3| Working RestAPI + Netlify Deployment| Incomplete
 |Day 4| Core Application Structure (HTML, CSS, etc.)| Incomplete
 |Day 5| MVP | Incomplete
 |Day 6| Present | Incomplete
@@ -86,14 +86,15 @@ In the post-MVP application, users would be able to register profiles as unverif
 #### MVP
 | Component | Priority | Estimated Time | Time Invested | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-| Data Models/Schema | H | 3hr | 3.5hr | .25 hr |
-| Routes | H | 2hr | 2.5hr | 0 hr |
-| Controllers | H | 2 hr | 3 hr | 0 hr |
-| Server Connection | H | 1 hr | 1.5 hr | 0 hr |
+| Data Models/Schema | H | 3hr | 3.5hr | 1.25 hr |
+| Routes | H | 2hr | 2.5hr | .5 hr |
+| Controllers | H | 2 hr | 3 hr | .5 hr |
+| Server Connection | H | 1 hr | 1.5 hr | .5 hr |
 | Frontend Connection | H | 5 hr | 6 hr | 0 hr |
-| Testing & Debugging | H | 5 hr | 6 hr | 0 hr |
-| Full Web Deployment (Netlify, Heroku) | H | 2.5hr | 3hr | 0 hr |
-| Total | H | 18 hrs| 22.5 hrs | .25 hrs |
+| Testing & Debugging | H | 5 hr | 6 hr | 1.75 hr |
+| Full Web Deployment (Netlify, Heroku) | H | 2.5hr | 3hr | .25 hr |
+| Research | H | 5 hr | 6 hr | 5 hr |
+| Total | H | 23 hrs| 28.5 hrs | 9.75 hrs |
 
 #### PostMVP
 | Component | Priority | Estimated Time | Time Invested | Actual Time |
