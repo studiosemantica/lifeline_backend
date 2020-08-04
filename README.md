@@ -19,7 +19,7 @@ This schedule will be used to keep track of progress throughout the week and ali
 |Day 1| Project Description | Complete
 |Day 1| Wireframes / Priority Matrix / backend and frontend | Complete
 |Day 2| Data Modeling, Tested Routes, Heroku backend Deployment | Complete
-|Day 3| Working RestAPI + Netlify Deployment| Incomplete
+|Day 3| Working RestAPI + Netlify Deployment| Complete
 |Day 4| Core Application Structure (HTML, CSS, etc.)| Incomplete
 |Day 5| MVP | Incomplete
 |Day 6| Present | Incomplete
@@ -90,11 +90,11 @@ In the post-MVP application, users would be able to register profiles as unverif
 | Routes | H | 2hr | 2.5hr | .5 hr |
 | Controllers | H | 2 hr | 3 hr | .5 hr |
 | Server Connection | H | 1 hr | 1.5 hr | .5 hr |
-| Frontend Connection | H | 5 hr | 6 hr | 0 hr |
+| Frontend Connection | H | 5 hr | 6 hr | 0.5 hr |
 | Testing & Debugging | H | 5 hr | 6 hr | 1.75 hr |
 | Full Web Deployment (Netlify, Heroku) | H | 2.5hr | 3hr | .25 hr |
 | Research | H | 5 hr | 6 hr | 5 hr |
-| Total | H | 23 hrs| 28.5 hrs | 9.75 hrs |
+| Total | H | 23 hrs| 28.5 hrs | 10.25 hrs |
 
 #### PostMVP
 | Component | Priority | Estimated Time | Time Invested | Actual Time |
@@ -102,7 +102,7 @@ In the post-MVP application, users would be able to register profiles as unverif
 | Add volunteers Data Structure | M | 5hr | 5hr | 0 hr|
 | Volunteers Page Connection | M | 2hr | 2hr | 0 hr|
 | Create Forum Application | M | 40 hr | 40 hr | 0 hr|
-| Total | H | 47 hrs| 47 hrs | 6.25hrs |
+| Total | H | 47 hrs| 47 hrs | 0 hrs |
 
 ## Additional Libraries
 The following resources/Libraries were referenced in order to create the listed elements.
