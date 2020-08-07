@@ -105,7 +105,10 @@ In the post-MVP application, users would be able to register profiles as unverif
 | Total | H | 47 hrs| 47 hrs | 0 hrs |
 
 ## Additional Libraries
-The following resources/Libraries were referenced in order to create the listed elements.
+
+Express
+Mongoose
+MongoDB Atlas
 
 
 ## Code Snippet
