@@ -4,7 +4,7 @@
 
 ## Lifeline mutual aid network app - BACKEND - Project 2 General Assembly
 
-[URL will go here]
+(https://project2backend-mk.herokuapp.com/)
 
 Magdalena Krzyzanowski
 
@@ -20,8 +20,8 @@ This schedule will be used to keep track of progress throughout the week and ali
 |Day 1| Wireframes / Priority Matrix / backend and frontend | Complete
 |Day 2| Data Modeling, Tested Routes, Heroku backend Deployment | Complete
 |Day 3| Working RestAPI + Netlify Deployment| Complete
-|Day 4| Core Application Structure (HTML, CSS, etc.)| Incomplete
-|Day 5| MVP | Incomplete
+|Day 4| Core Application Structure (HTML, CSS, etc.)| Complete
+|Day 5| MVP | Complete
 |Day 6| Present | Incomplete
 
 
